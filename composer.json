@@ -1,0 +1,45 @@
+{
+    "name": "dynamic/silverstripe-foxy-customer-portal",
+    "description": "Integrates the Foxy.io customer portal with your Foxy store.",
+    "type": "silverstripe-vendormodule",
+    "keywords": [
+        "silverstripe",
+        "CMS",
+        "ecommerce",
+        "foxy",
+        "customer"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Dynamic",
+            "email": "dev@dynamicagency.com",
+            "homepage": "http://www.dynamicagency.com"
+        }
+    ],
+    "require": {
+        "dynamic/silverstripe-foxy": "^1.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7",
+        "squizlabs/php_codesniffer": "^3.0",
+        "phpmd/phpmd": "^2.6",
+        "sebastian/phpcpd": "^3.0",
+        "phploc/phploc": "^4.0",
+        "pdepend/pdepend": "^2.5",
+        "theseer/phpdox": "^0.11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dynamic\\Foxy\\Portal": "src/",
+            "Dynamic\\Foxy\\Portal\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
