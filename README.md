@@ -2,6 +2,17 @@
 
 Integrates the Foxy.io customer portal with your Foxy store.
 
+[![Build Status](https://travis-ci.org/dynamic/silverstripe-foxy-customer-portal.svg?branch=master)](https://travis-ci.org/dynamic/silverstripe-foxy-customer-portal)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dynamic/silverstripe-foxy-customer-portal/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-foxy-customer-portal/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/dynamic/silverstripe-foxy-customer-portal/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-foxy-customer-portal/build-status/master)
+[![codecov](https://codecov.io/gh/dynamic/silverstripe-foxy-customer-portal/branch/master/graph/badge.svg)](https://codecov.io/gh/dynamic/silverstripe-foxy-customer-portal)
+
+[![Latest Stable Version](https://poser.pugx.org/dynamic/silverstripe-foxy-customer-portal/v/stable)](https://packagist.org/packages/dynamic/silverstripe-foxy-customer-portal)
+[![Total Downloads](https://poser.pugx.org/dynamic/silverstripe-foxy-customer-portal/downloads)](https://packagist.org/packages/dynamic/silverstripe-foxy-customer-portal)
+[![Latest Unstable Version](https://poser.pugx.org/dynamic/silverstripe-foxy-customer-portal/v/unstable)](https://packagist.org/packages/dynamic/silverstripe-foxy-customer-portal)
+[![License](https://poser.pugx.org/dynamic/silverstripe-foxy-customer-portal/license)](https://packagist.org/packages/dynamic/silverstripe-foxy-customer-portal)
+
+
 ## Requirements
 
 * SilverStripe ^4.0
